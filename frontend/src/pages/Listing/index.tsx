@@ -15,15 +15,18 @@ function Listing() {
           <div className="col-sm-6 col-lg-4">
             <Moviecard />
           </div>
-        </div><div className="row">
+        </div>
+        <div className="row">
           <div className="col-sm-6 col-lg-4">
             <Moviecard />
           </div>
-        </div><div className="row">
+        </div>
+        <div className="row">
           <div className="col-sm-6 col-lg-4">
             <Moviecard />
           </div>
-        </div><div className="row">
+        </div>
+        <div className="row">
           <div className="col-sm-6 col-lg-4">
             <Moviecard />
           </div>
