@@ -1,5 +1,5 @@
 import './styles.css'
-import {ReactComponent as GithubIcon} from '../../assets/img/github.svg';
+import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
 
 
 
